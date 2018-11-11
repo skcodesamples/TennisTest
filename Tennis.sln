@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.Service", "Tennis.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.Service.Test", "Tennis.Service.Test\Tennis.Service.Test.csproj", "{8FAEF54F-B2A0-412F-A3B6-3712D41770D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.Play", "Tennis.Play\Tennis.Play.csproj", "{227B9857-427E-4D81-8C1F-FCA71A546ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.Play.Test", "Tennis.Play.Test\Tennis.Play.Test.csproj", "{45592A3E-E164-4643-B12D-732D52037E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8FAEF54F-B2A0-412F-A3B6-3712D41770D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FAEF54F-B2A0-412F-A3B6-3712D41770D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FAEF54F-B2A0-412F-A3B6-3712D41770D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227B9857-427E-4D81-8C1F-FCA71A546ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227B9857-427E-4D81-8C1F-FCA71A546ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227B9857-427E-4D81-8C1F-FCA71A546ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227B9857-427E-4D81-8C1F-FCA71A546ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45592A3E-E164-4643-B12D-732D52037E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45592A3E-E164-4643-B12D-732D52037E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45592A3E-E164-4643-B12D-732D52037E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45592A3E-E164-4643-B12D-732D52037E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
